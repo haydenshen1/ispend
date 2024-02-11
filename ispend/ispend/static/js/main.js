@@ -1,1 +1,1 @@
-console.log('main.js setup')
+console.log('main.js working')
